@@ -3,7 +3,7 @@
 > [!Important]
 > This is a C# integration made for the [fmod-gdextension](https://github.com/utopia-rise/fmod-gdextension) addon. Please install the addon first.
 
-I made this for a project of and I hope you can take some use out of it too! c: 
+I made this for a project of mine and hope you can take some use out of it too! c: 
 
 ## How to setup:
 1. Attach the "fmod_event_emitter_initializer.gd" script to the "FmodEventEmitter2D" or "FmodEventEmitter3D" provided by the addon.
