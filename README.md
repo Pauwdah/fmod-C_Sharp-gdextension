@@ -1,7 +1,7 @@
 # C_Sharp-integration-for-fmod-gdextension
 
-> [!Note]
-> This is a C# integration made for the [fmod-gdextension](https://github.com/utopia-rise/fmod-gdextension)
+> [!Important]
+> This is a C# integration made for the [fmod-gdextension](https://github.com/utopia-rise/fmod-gdextension) addon. Please install the addon first.
 
 I made this for a project of and I hope you can take some use out of it too! c: 
 
@@ -40,5 +40,5 @@ bool AllowFadeout;
 bool PreloadEvent;
 ```
 
->[!Important]
+>[!Note]
 >Please don't hesitate to report bugs or features requests. 
