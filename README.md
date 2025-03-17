@@ -6,7 +6,7 @@
 I made this for a project of mine and hope you can take some use out of it too! c: 
 
 ## How to setup:
-1. Attach the "fmod_event_emitter_initializer.gd" script to the "FmodEventEmitter2D" or "FmodEventEmitter3D" provided by the addon.
+1. Attach the "fmod_event_emitter_initializer2D.gd" script to the "FmodEventEmitter2D" or the "fmod_event_emitter_initializer3D.gd" script to the "FmodEventEmitter3D" provided by the addon.
 2. Create a parent Node for the Emitter and attach the "FmodEventEmitter.cs" script to it.
 3. Done! You can now reference the C# Node and its functions how you usually would with any other object!
 
